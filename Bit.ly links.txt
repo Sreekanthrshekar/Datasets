@@ -1,0 +1,8 @@
+﻿Bit.ly links
+
+
+
+Alco.csv : 			https://bit.ly/global_drinks_consumption
+
+movie_details.item :		https://bit.ly/movie_details
+
